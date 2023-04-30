@@ -13,3 +13,4 @@
 cub3D  invalid  README.md  tester.sh  textures_xpm  valid
 ```
 
+**NOTE: You should print an error message with a newline character ("\n") when the map is invalid. If the map is valid, you should not display anything.**
