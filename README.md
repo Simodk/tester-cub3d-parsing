@@ -5,4 +5,5 @@
 
 #3  - Run script with -> bash tester.sh
 ```
+![image](https://github.com/Simodk/tester-cub3d-parsing/blob/main/img.png)
 
