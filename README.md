@@ -7,6 +7,9 @@
 
 #3  - Run script with -> bash tester.sh
 ```
-# Like This: 
-![image](https://github.com/Simodk/tester-cub3d-parsing/blob/main/img.png)
+
+# LIKE THIS
+```shell
+cub3D  invalid  README.md  tester.sh  textures_xpm  valid
+```
 
