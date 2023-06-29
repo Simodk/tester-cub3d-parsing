@@ -3,7 +3,7 @@
 ```
 #1  - git clone (repo) .
 
-#2  - Put you're File cub3D in this repo .
+#2  - Put you're File cub3D in this repo . (Note that you're file must named by 'cub3D')
 
 #3  - Run script with -> bash tester.sh
 ```
